@@ -1,0 +1,38 @@
+*{
+    padding: o;
+    margin: o;
+}
+.container{
+    width: 100%;
+    display: flex;
+}
+.right{
+    width: 20%;
+    padding-left: 60px;
+}
+h2{
+    color: rgb(25, 139, 163);
+}
+h4{
+    color: rgb(158, 160, 163);
+}
+.left{
+    width: 80%;
+    position: relative;
+    text-align: center;
+    top:120px;
+    align-items: center;
+
+}
+input{
+    height: 40px;
+    width: 500px;
+}
+button{
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: rgb(30, 137, 165);
+    color: white;
+    margin-top: 90px;
+}
